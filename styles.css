@@ -1,0 +1,18 @@
+#button-wrapper-div{
+    padding: 5rem;
+    margin: 3em;
+    display: flex;
+    flex-direction: row;
+}
+
+#add-to-cart-btn{
+    padding: 2em;
+    background-color: rgb(73, 73, 210);
+    color: rgb(213, 213, 25)
+}
+
+#review-product-btn {
+    padding: 2em;
+    background-color: rgb(149, 205, 132);
+    color: rgb(228, 137, 198);
+}
